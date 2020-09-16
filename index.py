@@ -18,7 +18,7 @@ with open("lines.txt", "a") as a_file:
 
 from git import Repo
 
-PATH_OF_GIT_REPO = '\.git' 
+PATH_OF_GIT_REPO = 'https://github.com/robertjallen/new_line.git' 
 
 COMMIT_MESSAGE = 'comment from python script'
 
