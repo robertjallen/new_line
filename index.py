@@ -10,10 +10,6 @@ with open("lines.txt", "a") as a_file:
   a_file.write("\n")
   a_file.write(date_time)
 
-
-
-
-
 # commit and push
 
 from git import Repo
